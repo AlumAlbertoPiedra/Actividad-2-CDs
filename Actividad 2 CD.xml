@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<listaCDs>
+    <CD>
+        <tituloAlbum> Thriller </tituloAlbum>
+        <artista> Michael Jackson </artista>
+        <canciones duracion="363"> Wanna be Startin' Something </canciones>
+        <canciones duracion="357"> Thriller </canciones>
+        <canciones duracion="259"> Beat it </canciones>
+        <canciones duracion="294"> Billie Jean </canciones>
+        <canciones duracion="245"> Human Nature </canciones>
+        <selloDiscografico> Epic </selloDiscografico>
+        <añoPublicacion> 1982 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Back in Black </tituloAlbum>
+        <artista> AC/DC </artista>
+        <canciones duracion="313"> Hells Bells </canciones>
+        <canciones duracion="320"> Shoot to thrill </canciones>
+        <canciones duracion="212"> Givin the dog a bone </canciones>
+        <canciones duracion="256"> Back in Black </canciones>
+        <canciones duracion="221"> You shook me all night long </canciones>
+        <selloDiscografico> Atco Records </selloDiscografico>
+        <añoPublicacion> 1980 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> The Bodyguard</tituloAlbum>
+        <artista> Whitney Houston </artista>
+        <canciones duracion="290"> I have nothing </canciones>
+        <canciones duracion="286"> I'm every woman </canciones>
+        <canciones duracion="271"> I will always Love you </canciones>
+        <canciones duracion="264"> Run to you </canciones>
+        <canciones duracion="188"> Queen of the night </canciones>
+        <selloDiscografico> Arista </selloDiscografico>
+        <añoPublicacion> 1992 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> The Wall </tituloAlbum>
+        <artista> Pink Floyd </artista>
+        <canciones duracion="298"> In the flesh </canciones>
+        <canciones duracion="146"> The thin ice </canciones>
+        <canciones duracion="334"> Mother </canciones>
+        <canciones duracion="130"> Empty Spaces </canciones>
+        <canciones duracion="248"> Don't leave me now </canciones>
+        <selloDiscografico>Columbia Records</selloDiscografico>
+        <añoPublicacion> 1979 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> 21 </tituloAlbum>
+        <artista>Adele</artista>
+        <canciones duracion="228"> Rolling in the Deep </canciones>
+        <canciones duracion="223"> Rumour has it </canciones>
+        <canciones duracion="250"> Turning tables </canciones>
+        <canciones duracion="242"> Set Fire to the Rain </canciones>
+        <canciones duracion="285"> Someone like you </canciones>
+        <selloDiscografico>Columbia Records</selloDiscografico>
+        <añoPublicacion> 2011 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Hotel California </tituloAlbum>
+        <artista> Eagles </artista>
+        <canciones duracion="390"> Hotel California </canciones>
+        <canciones duracion="304"> New kid in town </canciones>
+        <canciones duracion="286"> Live in the fast lane </canciones>
+        <canciones duracion="295"> Wasted time </canciones>
+        <canciones duracion="251"> Victims of love </canciones>
+        <selloDiscografico> Asylum Records </selloDiscografico>
+        <añoPublicacion> 1976 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Spirits having Flown </tituloAlbum>
+        <artista> Bee Gees </artista>
+        <canciones duracion="308"> Tragedy </canciones>
+        <canciones duracion="298"> Too much heaven </canciones>
+        <canciones duracion="253"> Love you inside out </canciones>
+        <canciones duracion="247"> Reaching out </canciones>
+        <canciones duracion="401"> Stop </canciones>
+        <selloDiscografico> Polydor </selloDiscografico>
+        <añoPublicacion> 1979 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Appetite for Destruction </tituloAlbum>
+        <artista> Guns N' Roses </artista>
+        <canciones duracion="271"> Welcome to the jungleTragedy </canciones>
+        <canciones duracion="201"> It's so Easy </canciones>
+        <canciones duracion="230"> Think about you </canciones>
+        <canciones duracion="266"> Nightrain </canciones>
+        <canciones duracion="406"> Paradise city </canciones>
+        <selloDiscografico> Geffen Records </selloDiscografico>
+        <añoPublicacion> 2018 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Metallica </tituloAlbum>
+        <artista> Metallica </artista>
+        <canciones duracion="329"> Ender Sandman </canciones>
+        <canciones duracion="324"> Sad but True </canciones>
+        <canciones duracion="227"> Holier than Thou </canciones>
+        <canciones duracion="386"> The Unforgiven </canciones>
+        <canciones duracion="256"> Or Wolf and Man </canciones>
+        <selloDiscografico> Elektra Records </selloDiscografico>
+        <añoPublicacion> 1991 </añoPublicacion>
+    </CD>
+    <CD>
+        <tituloAlbum> Hybrid Theory </tituloAlbum>
+        <artista> Linkin Park </artista>
+        <canciones duracion="185"> Papercut </canciones>
+        <canciones duracion="155"> One step closer </canciones>
+        <canciones duracion="203"> With you </canciones>
+        <canciones duracion="209"> Crawling </canciones>
+        <canciones duracion="184"> In the End </canciones>
+        <selloDiscografico> Warner Bros </selloDiscografico>
+        <añoPublicacion> 2000 </añoPublicacion>
+    </CD>
+</listaCDs>
